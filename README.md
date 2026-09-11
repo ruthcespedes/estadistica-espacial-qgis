@@ -1,2 +1,2 @@
 # estadistica-espacial-qgis
-Prácticas del curso de Estadística Espacial - QGIS
+Repositorio de prácticas y evidencias del curso de Estadística Espacial utilizando QGIS.
