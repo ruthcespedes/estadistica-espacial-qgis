@@ -1,6 +1,6 @@
 # Capa Raster
 
-En esta carpeta se encuentra la evidencia correspondiente al trabajo con una capa raster en QGIS.
+Se cargó un modelo digital de elevación SRTM GL1 (banda única, valores de 3798 a 4739 m) del área de Puno, en formato GeoTIFF y proyección EPSG:4326.
 
 ## Evidencia
 
